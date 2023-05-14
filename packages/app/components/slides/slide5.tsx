@@ -44,7 +44,7 @@ export default function Slide5() {
                     </View>
                 ) : (
                     <>
-                        <SolitoImage src={{ uri: thankyou }} alt={`Picture of CheckMark`} width={100} height={100} />
+                        <SolitoImage src={thankyou} alt={`Picture of CheckMark`} width={100} height={100} />
                         <Text className="text-3xl UbuntuBold text-primary-marineBlue">Thank you!</Text>
                         <Text className="text-lg UbuntuRegular text-neutral-coolGray">
                             Thanks for confirming your subscription! We hope you have fun using our platform.
