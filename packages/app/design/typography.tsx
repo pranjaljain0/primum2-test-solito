@@ -63,13 +63,13 @@ export const CustomCheckBox = forwardRef<CheckBox, StyledProps<any>>(function Cu
         onChange={onChangeHandler}
         {...props}
       />)
-    if (type == "toggle")
-      return (<StyledSwitch
-        style={className}
-        onValueChange={onChangeHandler}
-        value={value}
-        {...props}
-      />)
+
+    return (<StyledSwitch
+      style={className}
+      onValueChange={onChangeHandler}
+      value={value}
+      {...props}
+    />)
   }
 })
 
