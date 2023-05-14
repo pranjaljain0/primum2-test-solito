@@ -36,7 +36,7 @@ function InputWrapper({
                 id={id}
                 name={name}
                 control={control}
-                onChangeText={(e) => {
+                onChangeText={(e: string) => {
                     setValue(label, e)
                 }}
                 {...register(id, {
