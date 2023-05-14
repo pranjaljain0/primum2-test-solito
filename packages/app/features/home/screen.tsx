@@ -7,8 +7,7 @@ import Slide3 from 'app/components/slides/slide3';
 import Slide4 from 'app/components/slides/slide4';
 import Slide5 from 'app/components/slides/slide5';
 import SlideButton from 'app/components/Button/SlideButton';
-import { Text } from 'app/design/typography'
-import { UserSchema } from 'app/schema/index';
+import { UserSchema } from 'app/schema';
 import { View } from 'app/design/view'
 import image from "../../images/bg-sidebar-mobile.png"
 import { sidenav_data } from 'app/data/sidenav'
