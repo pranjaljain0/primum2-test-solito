@@ -1,12 +1,9 @@
 import { useEffect, useState } from "react";
 
-import Image from "next/image";
 import { Image as MotiImage } from "moti"
 import { SolitoImage } from "solito/image";
 import { Text } from "app/design/typography";
 import { View } from "app/design/view";
-import congrat from 'app/components/animations/congrats.json'
-import loading from 'app/components/animations/loading.json'
 import thankyou from "app/images/icon-thank-you.png"
 
 // import lottie from 'lottie-web';
@@ -25,7 +22,7 @@ export default function Slide5() {
                 {!showThanks ? (
                     <View>
                         <MotiImage
-                            source="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png?20220125121207"
+                            source={{ uri: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png?20220125121207" }}
                             style={{
                                 width: 227,
                                 height: 200,
@@ -47,7 +44,7 @@ export default function Slide5() {
                     </View>
                 ) : (
                     <>
-                        <SolitoImage src={thankyou} alt={`Picture of CheckMark`} width={100} height={100} />
+                        <SolitoImage src={{ uri: thankyou }} alt={`Picture of CheckMark`} width={100} height={100} />
                         <Text className="text-3xl UbuntuBold text-primary-marineBlue">Thank you!</Text>
                         <Text className="text-lg UbuntuRegular text-neutral-coolGray">
                             Thanks for confirming your subscription! We hope you have fun using our platform.
