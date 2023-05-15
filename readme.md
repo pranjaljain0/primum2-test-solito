@@ -6,7 +6,7 @@
 
 ## Multi-Step Form
 
-Deployed on [Vercel](https://vercel.com/) at [primum-test-2.vercel.app](https://primum2-test-solito-next.vercel.app/)
+Deployed on [Vercel](https://vercel.com/) at [primum2-test-solito-next.vercel.app](https://primum2-test-solito-next.vercel.app/)
 
 ## Watch it in action
 
