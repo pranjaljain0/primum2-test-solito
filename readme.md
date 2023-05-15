@@ -13,6 +13,8 @@ Deployed on [Vercel](https://vercel.com/) at [primum-test-2.vercel.app](https://
 * [Web](https://youtu.be/sJ5tNp03sEY)
 * [Native](https://youtu.be/XnU242a7s3k)
 
+You can find the [Screenshots](https://github.com/pranjaljain0/primum2-test-solito/tree/main/Media) here.
+
 This monorepo is a multi-step form built with solito a Expo + Next.js framework it includes custom & platform specific components, form validation and a summary page. Users can complete each step of the form, go back to a previous step to update their selections, see a summary of their selections on the final step, and confirm their order.
 
 ## Getting Started
