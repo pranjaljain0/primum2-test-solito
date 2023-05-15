@@ -4,9 +4,14 @@
 
  a starter for an  app using [NativeWind](https://nativewind.dev) for its styling & [Solito](https://solito.dev) for navigation.
 
-# Multi-Step Form
+## Multi-Step Form
 
-Deployed on [Vercel](https://vercel.com/) at [primum-test-2.vercel.app](https://primum-test-2.vercel.app/)
+Deployed on [Vercel](https://vercel.com/) at [primum-test-2.vercel.app](https://primum2-test-solito-next.vercel.app/)
+
+## Watch it in action
+
+* [Web](https://youtu.be/sJ5tNp03sEY)
+* [Native](https://youtu.be/XnU242a7s3k)
 
 This monorepo is a multi-step form built with solito a Expo + Next.js framework it includes custom & platform specific components, form validation and a summary page. Users can complete each step of the form, go back to a previous step to update their selections, see a summary of their selections on the final step, and confirm their order.
 

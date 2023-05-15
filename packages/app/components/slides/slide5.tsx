@@ -21,7 +21,7 @@ export default function Slide5() {
             <View className="flex flex-col items-center max-w-lg space-y-6 text-center">
                 {!showThanks ? (
                     <View>
-                        <MotiImage
+                        {/* <MotiImage
                             source={{ uri: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png?20220125121207" }}
                             style={{
                                 width: 227,
@@ -40,7 +40,7 @@ export default function Slide5() {
                                 duration: 3000,
                             }}
 
-                        />
+                        /> */}
                     </View>
                 ) : (
                     <>
