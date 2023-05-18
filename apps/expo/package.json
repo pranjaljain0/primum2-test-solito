@@ -3,7 +3,7 @@
     "@react-native-community/checkbox": "^0.5.15",
     "app": "*",
     "expo": "~48.0.16",
-    "expo-image": "~1.0.0",
+    "expo-image": "~1.2.3",
     "expo-linking": "~4.0.1",
     "expo-splash-screen": "~0.18.2",
     "expo-status-bar": "~1.4.4",
