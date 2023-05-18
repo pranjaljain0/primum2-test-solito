@@ -2,7 +2,7 @@
   "dependencies": {
     "@react-native-community/checkbox": "^0.5.15",
     "app": "*",
-    "expo": "~48.0.16",
+    "expo": "~48.0.17",
     "expo-image": "~1.0.0",
     "expo-linking": "~4.0.1",
     "expo-splash-screen": "~0.18.2",
