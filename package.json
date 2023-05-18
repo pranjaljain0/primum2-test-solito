@@ -25,7 +25,7 @@
   "dependencies": {
     "@hookform/resolvers": "^3.1.0",
     "@react-native-community/checkbox": "^0.5.15",
-    "expo-image": "^1.2.2",
+    "expo-image": "^1.2.3",
     "lottie-web": "^5.11.0",
     "metro-core": "^0.76.4",
     "react-hook-form": "^7.43.9",
