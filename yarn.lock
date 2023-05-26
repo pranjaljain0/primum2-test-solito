@@ -8209,13 +8209,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"metro-core@npm:^0.76.4":
-  version: 0.76.4
-  resolution: "metro-core@npm:0.76.4"
+"metro-core@npm:^0.76.5":
+  version: 0.76.5
+  resolution: "metro-core@npm:0.76.5"
   dependencies:
     lodash.throttle: ^4.1.1
-    metro-resolver: 0.76.4
-  checksum: ca172de4891109b7db5d4851e3b96c2c1d972f5a808e3a2d638d369d64d2a16b8cd951de8d4599645270b1f766354e71def5fbbc214c31dfd5e17ff39cc0ef92
+    metro-resolver: 0.76.5
+  checksum: ca1569f017049371401da85864ed1ae37cdab29edd71bb1a79c701b4420030616bdaf45294523dd6e7c244c0cf74abf6ef8a9808d785e1ca853cd2c271cee6a1
   languageName: node
   linkType: hard
 
@@ -8357,10 +8357,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"metro-resolver@npm:0.76.4":
-  version: 0.76.4
-  resolution: "metro-resolver@npm:0.76.4"
-  checksum: c0918d43e239f3f4524be77bea2707070ce6bc498be2f9e671e887afbac96f3f38d8229c647cd37a54e33f62471a68d0c73ff4db8811ef995e719d5c604ec73a
+"metro-resolver@npm:0.76.5":
+  version: 0.76.5
+  resolution: "metro-resolver@npm:0.76.5"
+  checksum: 6ff21c5d1f54a39b54a4c301e7a550c5d71923c5d179f2f457ca62b04609db25b272612ef29d25641b4adaeebbbbc3a4c6652fcb90665b6c6b0c4db6058b7648
   languageName: node
   linkType: hard
 
@@ -11197,7 +11197,7 @@ moti@latest:
     eslint: ^8.40.0
     expo-image: ^1.2.2
     lottie-web: ^5.11.0
-    metro-core: ^0.76.4
+    metro-core: ^0.76.5
     prettier: ^2.8.8
     prettier-plugin-tailwindcss: ^0.2.8
     react-hook-form: ^7.43.9
