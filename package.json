@@ -28,7 +28,7 @@
     "expo-image": "^1.2.2",
     "lottie-web": "^5.11.0",
     "metro-core": "^0.76.4",
-    "react-hook-form": "^7.43.9",
+    "react-hook-form": "^7.44.1",
     "react-native-check-box": "^2.1.7",
     "zod": "^3.21.4"
   }
