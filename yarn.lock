@@ -10189,12 +10189,12 @@ moti@latest:
   languageName: node
   linkType: hard
 
-"react-hook-form@npm:^7.43.9":
-  version: 7.43.9
-  resolution: "react-hook-form@npm:7.43.9"
+"react-hook-form@npm:^7.44.3":
+  version: 7.44.3
+  resolution: "react-hook-form@npm:7.44.3"
   peerDependencies:
     react: ^16.8.0 || ^17 || ^18
-  checksum: 65b94de625f2b7921c4e856bf0abbe142bfe06c052217bd1bcc3a842e2cc37fa3a3e03758119dc038bbcf5edb49e02c29206528b80b201f9a4d601471ef78153
+  checksum: 8dc97e705d28d842c60fd79b0f07b8b045c458c234e3bf422baab87a844d0ebecbdf3e349538eaaa5c12366cd85169f60a52ed84dd31cdd99729899e424548bf
   languageName: node
   linkType: hard
 
@@ -11200,7 +11200,7 @@ moti@latest:
     metro-core: ^0.76.4
     prettier: ^2.8.8
     prettier-plugin-tailwindcss: ^0.2.8
-    react-hook-form: ^7.43.9
+    react-hook-form: ^7.44.3
     react-native-check-box: ^2.1.7
     turbo: ^1.9.3
     typescript: ^5.0.4
